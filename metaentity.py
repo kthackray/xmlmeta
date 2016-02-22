@@ -1,4 +1,4 @@
-__author__ = 'exh278'
+__author__ = 'kth'
 
 
 def build_entity(xml_node):
